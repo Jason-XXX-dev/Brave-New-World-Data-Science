@@ -1,2 +1,2 @@
 # Brave-New-World-Data-Science
-Data Science Tutorials
+A Coolection Of Data Science Tutorials. There Is No Better wat To Learn Than Learning By coding.
